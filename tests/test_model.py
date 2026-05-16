@@ -5,7 +5,7 @@ def test_train_model():
     # Sample data
     data = {
         'Hours': [1, 2, 3, 4, 5],
-        'Marks': [20, 40, 60, 80, 90]
+        'Marks': [20, 40, 60, 80, 100]
     }
     df = pd.DataFrame(data)
     
